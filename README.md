@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beckyby
 - 👀 I’m interested in web Application and software development 
-- 🌱 I’m currently web front-end Development 
+- 🌱 I’m currently learning web front-end Development 
 - 💞️ I’m looking to collaborate on UI/UX
 - 📫 How to reach me tomy.becky@gmail.com 
 
